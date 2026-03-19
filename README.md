@@ -1,4 +1,6 @@
-# RAG Pipeline with FAISS + Sentence Transformers + Groq
+# RAG-Pipeline--QA-Engine 
+
+> (FAISS + Sentence Transformers + Groq)
 
 A modular Retrieval-Augmented Generation (RAG) project built with LangChain components, Sentence Transformers embeddings, FAISS vector search, and Groq for final answer generation.
 
